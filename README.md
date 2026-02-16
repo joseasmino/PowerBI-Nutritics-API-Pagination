@@ -1,6 +1,6 @@
 # Power BI – Nutritics API Pagination (Cloud Compatible)
 
-This project demonstrates how to connect the Nutritics API to Power BI using native Power Query (M) with pagination, fully compatible with Power BI Service scheduled refresh — without using Python or a data gateway.
+This project demonstrates how to connect the Nutritics API to Power BI using native Power Query (M) with pagination, fully compatible with Power BI Service scheduled refresh.
 
 ---
 
