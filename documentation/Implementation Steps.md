@@ -65,14 +65,6 @@ This section outlines the exact steps taken to implement API pagination using na
 
 ---
 
-## Step 7 – (Optional) Version Control with GitHub
-
-1. Save project as **Power BI Project (.pbip)**
-2. Commit changes to Git repository
-3. Track model and query changes
-4. Push updates to main branch after validation
-
----
 
 ## Final Outcome
 
